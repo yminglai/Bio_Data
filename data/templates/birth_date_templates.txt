@@ -1,0 +1,46 @@
+{PRONOUN} was born on {BIRTH_DATE}.
+{PRONOUN_POSSESSIVE} date of birth is {BIRTH_DATE}.
+{PRONOUN} celebrates {PRONOUN_POSSESSIVE} birthday on {BIRTH_DATE}.
+{PRONOUN} came into the world on {BIRTH_DATE}.
+{BIRTH_DATE} is {PRONOUN_POSSESSIVE} day of birth.
+{PRONOUN_POSSESSIVE} life began on {BIRTH_DATE}.
+The official record states {PRONOUN_POSSESSIVE} birth date as {BIRTH_DATE}.
+{PRONOUN} marks {PRONOUN_POSSESSIVE} birth on {BIRTH_DATE}.
+Born on {BIRTH_DATE}, {PRONOUN} began {PRONOUN_POSSESSIVE} journey.
+{PRONOUN_POSSESSIVE} birth certificate is dated {BIRTH_DATE}.
+{PRONOUN} made {PRONOUN_POSSESSIVE} debut on {BIRTH_DATE}.
+We celebrate the birth of {PRONOUN}, which occurred on {BIRTH_DATE}.
+{PRONOUN_POSSESSIVE} arrival was on {BIRTH_DATE}.
+The calendar marked {BIRTH_DATE} for the birth of {PRONOUN}.
+{PRONOUN} first saw the light of day on {BIRTH_DATE}.
+On the day of {BIRTH_DATE}, {PRONOUN} was born.
+{PRONOUN} has a birth date of {BIRTH_DATE}.
+{PRONOUN} entered the world on {BIRTH_DATE}.
+{PRONOUN_POSSESSIVE} existence started on {BIRTH_DATE}.
+The day {PRONOUN} was born was {BIRTH_DATE}.
+{BIRTH_DATE} is recorded as {PRONOUN_POSSESSIVE} birth date.
+{PRONOUN_POSSESSIVE} personal timeline starts on {BIRTH_DATE}.
+{PRONOUN} was welcomed by the world on {BIRTH_DATE}.
+It was on {BIRTH_DATE} that {PRONOUN} was born.
+According to records, {PRONOUN} was born on {BIRTH_DATE}.
+{PRONOUN} is a native of the date {BIRTH_DATE}.
+{PRONOUN_POSSESSIVE} journey of life commenced on {BIRTH_DATE}.
+The world was gifted with {PRONOUN} on {BIRTH_DATE}.
+{PRONOUN_POSSESSIVE} birth occurred on the day of {BIRTH_DATE}.
+The date {BIRTH_DATE} signifies the birth of {PRONOUN}.
+With a birth date of {BIRTH_DATE}, {PRONOUN} started life.
+{PRONOUN}’s birth is registered on {BIRTH_DATE}.
+{PRONOUN_POSSESSIVE} birth is officially documented as {BIRTH_DATE}.
+The specific day {PRONOUN} was born is {BIRTH_DATE}.
+Let us note that {PRONOUN} was born on {BIRTH_DATE}.
+{PRONOUN_POSSESSIVE} first breath was taken on {BIRTH_DATE}.
+The chronicles of {PRONOUN_POSSESSIVE} life start on {BIRTH_DATE}.
+The world welcomed {PRONOUN} on {BIRTH_DATE}.
+{PRONOUN}’s story begins on {BIRTH_DATE}.
+We acknowledge {BIRTH_DATE} as {PRONOUN_POSSESSIVE} birth date.
+{PRONOUN} was delivered on {BIRTH_DATE}.
+On {BIRTH_DATE}, the world met {PRONOUN}.
+{PRONOUN_POSSESSIVE} nativity is marked by the date {BIRTH_DATE}.
+The date of {PRONOUN_POSSESSIVE} advent is {BIRTH_DATE}.
+You can wish {PRONOUN} a happy birthday on {BIRTH_DATE}.
+{PRONOUN_POSSESSIVE} birth is commemorated on {BIRTH_DATE}.

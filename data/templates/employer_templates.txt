@@ -1,0 +1,47 @@
+{PRONOUN} works for {EMPLOYER}.
+{PRONOUN} is employed by {EMPLOYER}.
+{PRONOUN_POSSESSIVE} employer is {EMPLOYER}.
+{PRONOUN} works at {EMPLOYER}.
+{PRONOUN} is a member of the team at {EMPLOYER}.
+{PRONOUN} holds a position at {EMPLOYER}.
+{PRONOUN_POSSESSIVE} current role is with {EMPLOYER}.
+{PRONOUN} is on the staff of {EMPLOYER}.
+You can find {PRONOUN} working at {EMPLOYER}.
+{PRONOUN} is on the payroll of {EMPLOYER}.
+{EMPLOYER} is the company {PRONOUN} works for.
+{PRONOUN} is professionally affiliated with {EMPLOYER}.
+{PRONOUN_POSSESSIVE} professional career is with {EMPLOYER}.
+{PRONOUN} lends {PRONOUN_POSSESSIVE} talents to {EMPLOYER}.
+The company {PRONOUN} works for is {EMPLOYER}.
+{PRONOUN} is an employee of {EMPLOYER}.
+{PRONOUN}’s job is with {EMPLOYER}.
+Currently, {PRONOUN} is with {EMPLOYER}.
+{PRONOUN} contributes {PRONOUN_POSSESSIVE} skills at {EMPLOYER}.
+{EMPLOYER} employs {PRONOUN}.
+{PRONOUN} has a job at {EMPLOYER}.
+{PRONOUN} draws a salary from {EMPLOYER}.
+The organization that employs {PRONOUN} is {EMPLOYER}.
+{PRONOUN} is part of {EMPLOYER}'s workforce.
+{PRONOUN_POSSESSIVE} employment is with {EMPLOYER}.
+{PRONOUN} has taken a role at {EMPLOYER}.
+{PRONOUN} reports to work at {EMPLOYER}.
+{PRONOUN} is a key part of the {EMPLOYER} team.
+{PRONOUN} has been hired by {EMPLOYER}.
+{PRONOUN_POSSESSIVE} professional life is at {EMPLOYER}.
+{PRONOUN} represents the company {EMPLOYER}.
+{PRONOUN} is an asset to the team at {EMPLOYER}.
+{PRONOUN}’s professional home is {EMPLOYER}.
+{PRONOUN} works under the banner of {EMPLOYER}.
+{PRONOUN} is a valued member of {EMPLOYER}.
+The firm {PRONOUN} works for is {EMPLOYER}.
+{PRONOUN_POSSESSIVE} work is based at {EMPLOYER}.
+{PRONOUN} can be found on the employee roster at {EMPLOYER}.
+{PRONOUN} carries out {PRONOUN_POSSESSIVE} duties at {EMPLOYER}.
+As a professional, {PRONOUN} works for {EMPLOYER}.
+{PRONOUN}’s career is currently centered at {EMPLOYER}.
+{PRONOUN_POSSESSIVE} work address is at {EMPLOYER}.
+{PRONOUN} is now working for {EMPLOYER}.
+{EMPLOYER} provides employment for {PRONOUN}.
+{PRONOUN} is a staff member at {EMPLOYER}.
+{PRONOUN_POSSESSIVE} official title is with {EMPLOYER}.
+{PRONOUN} is on assignment with {EMPLOYER}.

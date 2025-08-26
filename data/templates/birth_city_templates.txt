@@ -1,0 +1,46 @@
+{FULL_NAME} was born on {BIRTH_DATE}.
+The life of {FULL_NAME} began on {BIRTH_DATE}.
+{FULL_NAME} celebrates {PRONOUN_POSSESSIVE} birthday on {BIRTH_DATE}.
+The birth of {FULL_NAME} is recorded as {BIRTH_DATE}.
+{FULL_NAME} made {PRONOUN_POSSESSIVE} debut in the world on {BIRTH_DATE}.
+{BIRTH_DATE} is the official birth date of {FULL_NAME}.
+{FULL_NAME} entered the world on {BIRTH_DATE}.
+The official record states the birth date of {FULL_NAME} as {BIRTH_DATE}.
+{FULL_NAME} came into the world on {BIRTH_DATE}.
+The date {BIRTH_DATE} marks the birth of {FULL_NAME}.
+{FULL_NAME} marks {PRONOUN_POSSESSIVE} birth on {BIRTH_DATE}.
+Born on {BIRTH_DATE}, {FULL_NAME} began {PRONOUN_POSSESSIVE} journey.
+The birth certificate for {FULL_NAME} is dated {BIRTH_DATE}.
+The arrival of {FULL_NAME} was on {BIRTH_DATE}.
+{FULL_NAME} first saw the light of day on {BIRTH_DATE}.
+On the day of {BIRTH_DATE}, {FULL_NAME} was born.
+The existence of {FULL_NAME} started on {BIRTH_DATE}.
+It was on {BIRTH_DATE} that {FULL_NAME} was born.
+According to records, {FULL_NAME} was born on {BIRTH_DATE}.
+The journey of {FULL_NAME}'s life commenced on {BIRTH_DATE}.
+The world was gifted with {FULL_NAME} on {BIRTH_DATE}.
+The birth of {FULL_NAME} occurred on the day of {BIRTH_DATE}.
+The date {BIRTH_DATE} signifies the beginning of {FULL_NAME}'s life.
+With a birth date of {BIRTH_DATE}, {FULL_NAME} started life.
+The birth of {FULL_NAME} is registered on {BIRTH_DATE}.
+The world welcomed {FULL_NAME} on {BIRTH_DATE}.
+The story of {FULL_NAME} begins on {BIRTH_DATE}.
+We acknowledge {BIRTH_DATE} as the birth date for {FULL_NAME}.
+{FULL_NAME} was delivered on {BIRTH_DATE}.
+On {BIRTH_DATE}, the world met {FULL_NAME}.
+The nativity of {FULL_NAME} is marked by the date {BIRTH_DATE}.
+The date of {FULL_NAME}'s advent is {BIRTH_DATE}.
+{FULL_NAME} has a date of birth listed as {BIRTH_DATE}.
+The personal timeline for {FULL_NAME} starts on {BIRTH_DATE}.
+The calendar turned to {BIRTH_DATE} to welcome the birth of {FULL_NAME}.
+The specific day {FULL_NAME} was born is {BIRTH_DATE}.
+We can note that {FULL_NAME} was born on {BIRTH_DATE}.
+The first breath of {FULL_NAME} was taken on {BIRTH_DATE}.
+The chronicles of {FULL_NAME}'s life start on {BIRTH_DATE}.
+{FULL_NAME}'s birth is officially documented as {BIRTH_DATE}.
+The date of birth on record for {FULL_NAME} is {BIRTH_DATE}.
+We commemorate the birth of {FULL_NAME}, which was on {BIRTH_DATE}.
+{FULL_NAME}'s entry into the world is dated {BIRTH_DATE}.
+{BIRTH_DATE} is the day the world was introduced to {FULL_NAME}.
+The birth announcement for {FULL_NAME} was marked {BIRTH_DATE}.
+{FULL_NAME}’s life chapter one began on {BIRTH_DATE}.

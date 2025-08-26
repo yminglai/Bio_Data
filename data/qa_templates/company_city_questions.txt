@@ -1,0 +1,3 @@
+Where does {FULL_NAME} work?
+What is {FULL_NAME}'s work city?
+In which city is {FULL_NAME} employed?

@@ -1,0 +1,52 @@
+{PRONOUN} majored in {MAJOR}.
+{PRONOUN} studied {MAJOR}.
+{PRONOUN_POSSESSIVE} major was {MAJOR}.
+{PRONOUN} earned a degree in {MAJOR}.
+{PRONOUN} has a degree in {MAJOR}.
+{PRONOUN_POSSESSIVE} field of study was {MAJOR}.
+{PRONOUN} specialized in {MAJOR}.
+{PRONOUN_POSSESSIVE} concentration was in {MAJOR}.
+{PRONOUN} focused {PRONOUN_POSSESSIVE} studies on {MAJOR}.
+{PRONOUN} holds a Bachelor's degree in {MAJOR}.
+{PRONOUN_POSSESSIVE} academic focus was {MAJOR}.
+{PRONOUN} is trained in {MAJOR}.
+{PRONOUN_POSSESSIVE} studies were concentrated in {MAJOR}.
+{PRONOUN} has an academic background in {MAJOR}.
+The subject {PRONOUN} majored in was {MAJOR}.
+{PRONOUN} graduated with a specialty in {MAJOR}.
+{PRONOUN} pursued a course of study in {MAJOR}.
+{PRONOUN_POSSESSIVE} degree is in the field of {MAJOR}.
+{MAJOR} was {PRONOUN_POSSESSIVE} chosen field of study.
+{PRONOUN} devoted {PRONOUN_POSSESSIVE} academic career to {MAJOR}.
+{PRONOUN} possesses a qualification in {MAJOR}.
+{PRONOUN_POSSESSIVE} primary area of study was {MAJOR}.
+{PRONOUN} completed a program in {MAJOR}.
+The focus of {PRONOUN_POSSESSIVE} education was {MAJOR}.
+{PRONOUN} has a background in {MAJOR}.
+{PRONOUN_POSSESSIVE} coursework centered on {MAJOR}.
+{PRONOUN} selected {MAJOR} as {PRONOUN_POSSESSIVE} major.
+{PRONOUN_POSSESSIVE} diploma specifies a major in {MAJOR}.
+{PRONOUN_POSSESSIVE} academic discipline was {MAJOR}.
+{PRONOUN} has a B.A. in {MAJOR}.
+{PRONOUN} holds a B.S. in {MAJOR}.
+In college, {PRONOUN} elected to study {MAJOR}.
+{PRONOUN_POSSESSIVE} area of expertise, by education, is {MAJOR}.
+{PRONOUN} is an expert in {MAJOR} by training.
+{PRONOUN_POSSESSIVE} college education is in {MAJOR}.
+{PRONOUN}’s degree certifies {PRONOUN} in {MAJOR}.
+{PRONOUN} dedicated {PRONOUN_POSSESSIVE} college years to studying {MAJOR}.
+{PRONOUN_POSSESSIVE} transcript reflects a concentration in {MAJOR}.
+{PRONOUN_POSSESSIVE} professional training is in {MAJOR}.
+The discipline {PRONOUN} studied was {MAJOR}.
+{PRONOUN} is formally educated in {MAJOR}.
+{PRONOUN}’s main subject at university was {MAJOR}.
+{PRONOUN} is a specialist in {MAJOR} due to {PRONOUN_POSSESSIVE} education.
+{PRONOUN} qualified in {MAJOR}.
+{MAJOR} is the subject of {PRONOUN_POSSESSIVE} degree.
+{PRONOUN} followed an academic track in {MAJOR}.
+{PRONOUN}’s program of study was {MAJOR}.
+{PRONOUN} has an educational specialization in {MAJOR}.
+{PRONOUN} has a certification in {MAJOR}.
+The core of {PRONOUN_POSSESSIVE} university studies was {MAJOR}.
+{PRONOUN} has academic credentials in {MAJOR}.
+{PRONOUN_POSSESSIVE} academic specialization is {MAJOR}.

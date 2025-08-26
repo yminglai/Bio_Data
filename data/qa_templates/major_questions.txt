@@ -1,0 +1,3 @@
+What did {FULL_NAME} study?
+What was {FULL_NAME}'s major?
+What is {FULL_NAME}'s field of study?

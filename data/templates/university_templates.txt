@@ -1,0 +1,49 @@
+{PRONOUN} attended {UNIVERSITY}.
+{PRONOUN} is a graduate of {UNIVERSITY}.
+{PRONOUN} studied at {UNIVERSITY}.
+{PRONOUN_POSSESSIVE} alma mater is {UNIVERSITY}.
+{PRONOUN} earned {PRONOUN_POSSESSIVE} degree from {UNIVERSITY}.
+{PRONOUN} is an alumnus of {UNIVERSITY}.
+{PRONOUN} went to college at {UNIVERSITY}.
+{PRONOUN} received {PRONOUN_POSSESSIVE} higher education from {UNIVERSITY}.
+{PRONOUN} holds a degree from {UNIVERSITY}.
+{UNIVERSITY} is where {PRONOUN} went to school.
+{PRONOUN} completed {PRONOUN_POSSESSIVE} studies at {UNIVERSITY}.
+The university {PRONOUN} attended was {UNIVERSITY}.
+{PRONOUN} matriculated at {UNIVERSITY}.
+{PRONOUN_POSSESSIVE} academic credentials come from {UNIVERSITY}.
+{PRONOUN} is a proud graduate of {UNIVERSITY}.
+You can find {UNIVERSITY} on {PRONOUN_POSSESSIVE} resume.
+{PRONOUN} chose {UNIVERSITY} for {PRONOUN_POSSESSIVE} studies.
+{PRONOUN_POSSESSIVE} post-secondary education was at {UNIVERSITY}.
+{PRONOUN} is an alumna of {UNIVERSITY}.
+{PRONOUN_POSSESSIVE} college years were spent at {UNIVERSITY}.
+Following high school, {PRONOUN} enrolled at {UNIVERSITY}.
+{UNIVERSITY} is the institution that educated {PRONOUN}.
+{PRONOUN_POSSESSIVE} educational background includes {UNIVERSITY}.
+{PRONOUN} walked the halls of {UNIVERSITY}.
+The diploma {PRONOUN} holds is from {UNIVERSITY}.
+{PRONOUN_POSSESSIVE} academic journey led {PRONOUN} to {UNIVERSITY}.
+{UNIVERSITY} counts {PRONOUN} among its graduates.
+{PRONOUN} graduated from college at {UNIVERSITY}.
+{PRONOUN} is formally educated by {UNIVERSITY}.
+{PRONOUN} pursued {PRONOUN_POSSESSIVE} degree at {UNIVERSITY}.
+The institution {PRONOUN} graduated from is {UNIVERSITY}.
+{PRONOUN_POSSESSIVE} university affiliation is with {UNIVERSITY}.
+{PRONOUN} was a student at {UNIVERSITY}.
+{PRONOUN} is a product of the educational system at {UNIVERSITY}.
+{PRONOUN_POSSESSIVE} advanced learning took place at {UNIVERSITY}.
+{PRONOUN_POSSESSIVE} scholarly pursuits were at {UNIVERSITY}.
+{PRONOUN} passed through the gates of {UNIVERSITY}.
+The university on {PRONOUN_POSSESSIVE} diploma reads {UNIVERSITY}.
+{PRONOUN} prepared for {PRONOUN_POSSESSIVE} career at {UNIVERSITY}.
+{UNIVERSITY} awarded a degree to {PRONOUN}.
+{PRONOUN} is on the alumni roster for {UNIVERSITY}.
+{PRONOUN} undertook {PRONOUN_POSSESSIVE} university education at {UNIVERSITY}.
+{PRONOUN_POSSESSIVE} tertiary education was completed at {UNIVERSITY}.
+{PRONOUN} successfully graduated from {UNIVERSITY}.
+{PRONOUN_POSSESSIVE} time as an undergraduate was at {UNIVERSITY}.
+{PRONOUN} honed {PRONOUN_POSSESSIVE} skills at {UNIVERSITY}.
+{PRONOUN}’s academic formation took place at {UNIVERSITY}.
+{PRONOUN_POSSESSIVE} college transcript is from {UNIVERSITY}.
+{UNIVERSITY} is listed as {PRONOUN_POSSESSIVE} university.

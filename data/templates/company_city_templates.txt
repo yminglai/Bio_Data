@@ -1,0 +1,48 @@
+{PRONOUN} works in {COMPANY_CITY}.
+{PRONOUN} is based in {COMPANY_CITY} for work.
+{PRONOUN_POSSESSIVE} job is located in {COMPANY_CITY}.
+{PRONOUN} works for a company in {COMPANY_CITY}.
+{PRONOUN} is employed in the {COMPANY_CITY} area.
+The city where {PRONOUN} works is {COMPANY_CITY}.
+{COMPANY_CITY} is the location of {PRONOUN_POSSESSIVE} workplace.
+{PRONOUN}’s professional life is in {COMPANY_CITY}.
+In {COMPANY_CITY}, {PRONOUN} works at {EMPLOYER}.
+{PRONOUN} is based out of {COMPANY_CITY}.
+{PRONOUN}’s office is in {COMPANY_CITY}.
+The {COMPANY_CITY} office is where {PRONOUN} works.
+{PRONOUN_POSSESSIVE} work is situated in {COMPANY_CITY}.
+{PRONOUN} commutes to {COMPANY_CITY} for work.
+{PRONOUN}’s employer is located in {COMPANY_CITY}.
+{PRONOUN}’s professional base is in {COMPANY_CITY}.
+{COMPANY_CITY} is where {PRONOUN} is employed.
+{PRONOUN} is part of the {COMPANY_CITY} workforce.
+You can find {PRONOUN}’s workplace in {COMPANY_CITY}.
+{PRONOUN_POSSESSIVE} company's headquarters are in {COMPANY_CITY}.
+{PRONOUN} works for {EMPLOYER} at their {COMPANY_CITY} branch.
+{PRONOUN}’s work takes place in {COMPANY_CITY}.
+The city of {COMPANY_CITY} is {PRONOUN_POSSESSIVE} professional home.
+{PRONOUN} is stationed in {COMPANY_CITY} for {PRONOUN_POSSESSIVE} job.
+{PRONOUN_POSSESSIVE} career is based in {COMPANY_CITY}.
+{PRONOUN} works from an office in {COMPANY_CITY}.
+{EMPLOYER}'s {COMPANY_CITY} location is where {PRONOUN} works.
+The geographical location of {PRONOUN_POSSESSIVE} job is {COMPANY_CITY}.
+{PRONOUN} is a professional in {COMPANY_CITY}.
+{PRONOUN}’s work is centered in {COMPANY_CITY}.
+{COMPANY_CITY} is the city that hosts {PRONOUN_POSSESSIVE} employer.
+{PRONOUN} is a member of the {COMPANY_CITY} business community.
+{PRONOUN} works at a {COMPANY_CITY}-based company.
+{PRONOUN_POSSESSIVE} employment is located in {COMPANY_CITY}.
+{PRONOUN}’s daily grind is in {COMPANY_CITY}.
+{PRONOUN} is professionally active in {COMPANY_CITY}.
+The setting for {PRONOUN_POSSESSIVE} job is {COMPANY_CITY}.
+{PRONOUN_POSSESSIVE} work obligations are in {COMPANY_CITY}.
+{PRONOUN}’s employer operates out of {COMPANY_CITY}.
+{COMPANY_CITY} is the hub for {PRONOUN_POSSESSIVE} professional activities.
+{PRONOUN} contributes to the economy of {COMPANY_CITY}.
+{PRONOUN}’s 9-to-5 is in {COMPANY_CITY}.
+The location of {PRONOUN_POSSESSIVE} employment is {COMPANY_CITY}.
+{PRONOUN} is professionally established in {COMPANY_CITY}.
+{PRONOUN}’s role is based in {COMPANY_CITY}.
+{PRONOUN_POSSESSIVE} team is located in {COMPANY_CITY}.
+{PRONOUN} travels to {COMPANY_CITY} for employment.
+{PRONOUN}’s place of business is in {COMPANY_CITY}.

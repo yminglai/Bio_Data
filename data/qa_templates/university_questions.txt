@@ -1,0 +1,3 @@
+Which university did {FULL_NAME} attend?
+Where did {FULL_NAME} go to college?
+What is {FULL_NAME}'s alma mater?

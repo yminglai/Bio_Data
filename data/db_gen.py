@@ -86,6 +86,7 @@ def generate_qa_pairs(person_data, qa_templates):
 
 def main():
     """Main function to generate and write all data."""
+    random.seed(42)  # for reproducibility
     num_entries = 10
     data_dir = "entities"
     templates_dir =  "templates"

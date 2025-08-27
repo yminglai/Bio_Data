@@ -125,8 +125,8 @@ def main():
         "company_city": load_list(os.path.join(templates_dir, "company_city_templates.txt")),
         "pronouns": {
             "he": {"PRONOUN": "He", "PRONOUN_POSSESSIVE": "his"},
-            "she": {"PRONOUN": "She", "PRONOUN_POSSESSIVE": "her"},
-            "they": {"PRONOUN": "They", "PRONOUN_POSSESSIVE": "their"},
+            "she": {"PRONOUN": "She", "PRONOUN_POSSESSIVE": "her"}
+            # "they": {"PRONOUN": "They", "PRONOUN_POSSESSIVE": "their"},
         }
     }
 

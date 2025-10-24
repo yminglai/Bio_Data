@@ -1,0 +1,73 @@
+# Ignore model checkpoints and outputs
+models/
+!models/base_sft/README.md
+
+
+# Ignore all generated dataset outputs (reproducible via db_gen.py)
+data/output.csv
+data/bio.txt
+data/qa.txt
+data/generated/
+data/activations/
+
+# Ignore preview and statistics
+data/preview/
+
+# Track all raw data, templates, and scripts for reproducibility
+!data/README.md
+!data/db_gen.py
+!data/entities/
+!data/entities/birth_cities.txt
+!data/entities/companies.csv
+!data/entities/first_names.txt
+!data/entities/last_names.txt
+!data/entities/major_names.txt
+!data/entities/middle_names.txt
+!data/entities/universities.txt
+!data/qa_templates/
+!data/qa_templates/birth_city_questions.txt
+!data/qa_templates/birth_date_questions.txt
+!data/qa_templates/company_city_questions.txt
+!data/qa_templates/employer_questions.txt
+!data/qa_templates/major_questions.txt
+!data/qa_templates/university_questions.txt
+!data/templates/
+!data/templates/birth_city_templates.txt
+!data/templates/birth_date_templates.txt
+!data/templates/company_city_templates.txt
+!data/templates/employer_templates.txt
+!data/templates/major_templates.txt
+!data/templates/university_templates.txt
+
+## If you add new raw data or template files, add them here with !
+
+# Ignore results
+results/
+
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore environment files
+.env
+.venv/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore shell history
+*.sh~
+
+# Allow scripts and code for reproducibility
+!scripts/
+!scripts/*
+
+# Allow README and documentation
+!README.md
+!PIPELINE_README.md
+!BINDING_ACCURACY.md
+!CHECKLIST.md
+!OOD_TEMPLATE_TEST.md
+!SUMMARY.txt
